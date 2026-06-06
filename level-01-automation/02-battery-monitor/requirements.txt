@@ -1,0 +1,5 @@
+# This project exclusively uses the Python Standard Library.
+# No external packages via pip are required.
+# 
+# System dependencies (tlp, cpufrequtils) 
+# are automatically installed when executing main.py.
