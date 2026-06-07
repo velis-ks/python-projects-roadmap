@@ -28,7 +28,7 @@ A professional command-line interface (CLI) application designed for the hospita
     ```bash
     python3 src/main.py --recipe tortilla_patatas --portions 150
 
-## 💻 Sample Output
+## 📊 Sample Output
 
 Scaling 'Classic Spanish Omelette' from 4 to 150 portions.
 Multiplier: 37.5x
