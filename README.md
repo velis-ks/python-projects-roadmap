@@ -2,7 +2,7 @@
 
 Welcome to my development and automation repository. 
 
-As a Full Stack Developer with a background in Java, PHP, and React, I have recently graduated from my Multiplatform Application Development (DAM) degree and am currently preparing to begin my BSc (Hons) Computer Science Top-Up degree in England this September. 
+As a Full Stack Developer with a background in Java, PHP, and React.
 
 Right now, my absolute focus is on mastering **Python** and **JavaScript**. I am using this space to solidify my skills in system scripting, automation architecture, and modern full-stack development.
 
@@ -18,7 +18,7 @@ Scripts designed to interact directly with the operating system, manage hardware
 * **[03-recipe-scaler](./level-01-automation/03-recipe-scaler):** A professional Python CLI tool using `argparse` to parse JSON databases, calculate gross/net ingredient weights, and compute financial costs per portion for the hospitality sector.
 
 ## 🎯 Learning Objectives
-* Deepening expertise in the Python and JavaScript ecosystems.
+* Deepening expertise in the Python ecosystems.
 * System file manipulation (`/sys/`, `/etc/`) and hardware-level scripting.
 * Safe subprocess execution and native Linux error handling.
 * Writing clean, modular, and well-documented code for production environments.
