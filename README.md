@@ -15,6 +15,7 @@ Scripts designed to interact directly with the operating system, manage hardware
 
 * **[01-system-cleaner](./level-01-automation/01-system-cleaner):** A Python utility designed to automate deep cleaning, manage system caches, and empty the trash to optimize disk space.
 * **[02-battery-monitor](./level-01-automation/02-battery-monitor):** A system utility written in Python to manage battery charge thresholds at the kernel level and dynamically configure CPU governors using TLP.
+* **[03-recipe-scaler](./level-01-automation/03-recipe-scaler):** A professional Python CLI tool using `argparse` to parse JSON databases, calculate gross/net ingredient weights, and compute financial costs per portion for the hospitality sector.
 
 ## 🎯 Learning Objectives
 * Deepening expertise in the Python and JavaScript ecosystems.
