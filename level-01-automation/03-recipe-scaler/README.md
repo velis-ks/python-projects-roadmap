@@ -27,3 +27,19 @@ A professional command-line interface (CLI) application designed for the hospita
 3. Scale a recipe by providing the exact dictionary key and target portions:
     ```bash
     python3 src/main.py --recipe tortilla_patatas --portions 150
+
+## 💻 Sample Output
+
+Scaling 'Classic Spanish Omelette' from 4 to 150 portions.
+Multiplier: 37.5x
+------------------------------
+Monalisa Potato | Gross: 37500.00g | Net: 31875.00g | Cost: €45.00
+------------------------------
+Onion | Gross: 11250.00g | Net: 10125.00g | Cost: €9.00
+------------------------------
+Egg (Unit) | Gross: 225.00g | Net: 225.00g | Cost: €56.25
+------------------------------
+EV Olive Oil | Gross: 7500.00g | Net: 7500.00g | Cost: €63.75
+------------------------------
+Total Batch Cost: €174.00 | Cost Per Portion: €1.16
+------------------------------
