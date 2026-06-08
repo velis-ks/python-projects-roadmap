@@ -1,0 +1,27 @@
+# --- Python ---
+# Entornos virtuales (¡MUY IMPORTANTE!)
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- VS Code ---
+.vscode/
+.history/
+.DS_Store
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Bases de Datos / Locales ---
+# Si usas bases de datos locales, no subas los archivos de datos
+*.db
+*.sqlite3
+*.log
+
+# --- Otros ---
+# Si en el futuro usas archivos de configuración con contraseñas
+.env
