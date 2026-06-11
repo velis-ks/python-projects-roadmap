@@ -19,7 +19,7 @@ Scripts designed to interact directly with the operating system, manage hardware
 ### Level 02: Web Automation, Scraping & Databases (Python)
 Transitioning from local OS tools to external web architecture, data extraction, and embedded relational storage.
 
-* **[04-campervan-scraper](./level-02-level-02-web-db/04-campervan-scraper)**: A stealth web scraper and CLI tool built to bypass enterprise WAFs and track campervan prices (Mazda Bongo, VW T4/T5) on eBay. Engineered with Selenium, `undetected-chromedriver`, BeautifulSoup4, and Rich for an interactive terminal UI. Features dynamic argument parsing and strict garbage collection.
+* **[04-campervan-scraper](./level-02-web-db/04-campervan-scraper)**: A stealth web scraper and CLI tool built to bypass enterprise WAFs and track campervan prices (Mazda Bongo, VW T4/T5) on eBay. Engineered with Selenium, `undetected-chromedriver`, BeautifulSoup4, and Rich for an interactive terminal UI. Features dynamic argument parsing and strict garbage collection.
 * **`05-todo-sqlite`**: *(In Progress)* Exploring embedded relational databases using Python's native `sqlite3`. Focusing on OOP connection managers, parameterized CRUD operations, and safe schema initialization.
 
 ## 🎯 Learning Objectives
